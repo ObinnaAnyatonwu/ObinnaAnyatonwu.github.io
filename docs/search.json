@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Analysis of DHS Data\n\n\n\ncode\n\nanalysis\n\nr\n\n\n\n\n\n\n\n\n\nJan 12, 2026\n\n\nObinna Princewill Anyatonwu\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 9, 2026\n\n\nObinna Princewill Anyatonwu\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Obinna Princewill Anyatonwu",
+    "section": "",
+    "text": "Anyatonwu Obinna Princewill is an epidemiologist, public health researcher, and optometrist with multidisciplinary expertise spanning global health, health equity, maternal and child health, and eye care. He holds dual Master of Science degrees in Public Health and Epidemiology from Umeå University, Sweden, and a Doctor of Optometry from Abia State University, Nigeria.\nHis research focuses on social determinants of health, health inequalities, and implementation-relevant evidence in low- and middle-income countries, with particular emphasis on maternal health, and equitable access to eye care. He has applied advanced quantitative and qualitative methods, including regression modeling and Blinder–Oaxaca decomposition, using large population-based datasets such as the Demographic and Health Surveys."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
