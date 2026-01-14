@@ -1,0 +1,20 @@
+---
+title: "Obinna Princewill Anyatonwu"
+image: Profile_photo.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/obinna32101149?s=11&t=j8YL8UjpXupAIGHR7l7MKg
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/obinna-princewill-anyatonwu-33ab89166
+    - icon: github
+      text: Github
+      href: https://github.com/ObinnaAnyatonwu
+---
+
+Anyatonwu Obinna Princewill is an epidemiologist, public health researcher, and optometrist with multidisciplinary expertise spanning global health, health equity, maternal and child health, and eye care. He holds dual Master of Science degrees in Public Health and Epidemiology from Umeå University, Sweden, and a Doctor of Optometry from Abia State University, Nigeria.
+
+His research focuses on social determinants of health, health inequalities, and implementation-relevant evidence in low- and middle-income countries, with particular emphasis on maternal health, and equitable access to eye care. He has applied advanced quantitative and qualitative methods, including regression modeling and Blinder–Oaxaca decomposition, using large population-based datasets such as the Demographic and Health Surveys.

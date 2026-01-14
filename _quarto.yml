@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: "docs"
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Obinna Princewill Anyatonwu"
+  navbar:
+    left: 
+       - text: "Home"
+         file: index.qmd
+       - text: "Portfolio"
+         file: portfolio.qmd
+       - text: "CV"
+         file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/ObinnaAnyatonwu
+      - icon: twitter
+        href: https://x.com/obinna32101149?s=11&t=j8YL8UjpXupAIGHR7l7MKg
+format:
+  html:
+    theme:
+      - cerulean
+      - brand
+    css: styles.css
+
+editor: visual
+
